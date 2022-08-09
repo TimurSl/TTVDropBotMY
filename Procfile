@@ -1,1 +1,1 @@
-worker: node build/index.js --displayless --showtoken
+worker: node build/index.js --displayless
